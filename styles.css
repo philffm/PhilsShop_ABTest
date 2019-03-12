@@ -1936,7 +1936,7 @@ div#SUBNAV {
     bottom: 0;
     left: 0;
     right: 0;
-    height: 50px;
+    height: 70px;
 }
 
 
@@ -1955,7 +1955,7 @@ div#SUBNAV {
     position: absolute;
     overflow: visible;
     width: 418px;
-    height: 56px;
+    height: 70px;
     left: 0px;
     top: 0px;
 }
@@ -1974,7 +1974,7 @@ div#SUBNAV {
     position: absolute;
     z-index: 0;
     width: 209px;
-    height: 56px;
+    height: 70px;
     left: 209px;
     top: 0px;
 }
@@ -2083,6 +2083,31 @@ div#SUBNAV {
     font-size: 19px;
     color: rgba(0,0,0,1);
 }
+
+
+
+#AddTo_Shopping_Cart {
+    opacity: 1;
+    position: absolute;
+    left: 265px;
+    top: 10px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 134px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -1.5px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(0,0,0,1);
+}
+
+
 #Account {
     opacity: 1;
     position: absolute;
