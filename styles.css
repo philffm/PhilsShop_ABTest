@@ -1,0 +1,2475 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --web-view-ids: PRODVIEW___1;
+}
+#PRODVIEW___1 * {
+    margin: 0;
+    padding: 0;
+}
+#PRODVIEW___1 {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 414px;
+    height: 2862px;
+    font-family: 'Open Sans:600',sans-serif;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    opacity: 1;
+    --web-view-name: PRODVIEW – 1;
+    --web-view-id: PRODVIEW___1;
+    --web-enable-deep-linking: true;
+}
+#CONTENT {
+    opacity: 1;
+    position: absolute;
+    width: 568px;
+    height: 2584.225px;
+    left: -73px;
+    top: 170px;
+    overflow: visible;
+}
+#Footer {
+    opacity: 1;
+    position: absolute;
+    width: 416px;
+    height: 618px;
+    left: 71px;
+    top: 1966.225px;
+    overflow: visible;
+}
+#BG {
+    opacity: 1;
+    fill: rgba(244,244,244,1);
+}
+.BG {
+    position: absolute;
+    overflow: visible;
+    width: 416px;
+    height: 553px;
+    left: 0px;
+    top: 65px;
+}
+#SOC {
+    opacity: 1;
+    position: absolute;
+    width: 308.868px;
+    height: 115.5px;
+    left: 53px;
+    top: 474px;
+    overflow: visible;
+}
+#Be_social__share_it_ {
+    opacity: 1;
+    position: absolute;
+    left: 29px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 251px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Ellipse_4 {
+    opacity: 1;
+    fill: url(#Ellipse_4_A34_Ellipse_2_pattern);
+}
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 57.102px;
+    height: 57.102px;
+    left: 0px;
+    top: 58.398px;
+}
+#Path_24 {
+    opacity: 0.9;
+    fill: url(#Path_24_A34_Path_2_pattern);
+}
+.Path_24 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 58.398px;
+    left: 83.922px;
+    width: 57.102px;
+    height: 57.102px;
+}
+#Path_26 {
+    opacity: 1;
+    fill: url(#Path_26_A34_Path_4_pattern);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_26 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 58.398px;
+    left: 251.766px;
+    width: 57.102px;
+    height: 57.102px;
+}
+#Path_25 {
+    opacity: 1;
+    fill: url(#Path_25_A34_Path_6_pattern);
+}
+.Path_25 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 58.398px;
+    left: 167.844px;
+    width: 57.102px;
+    height: 57.102px;
+}
+#Want_some_more_ {
+    opacity: 1;
+    position: absolute;
+    left: 81px;
+    top: 316px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 254px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_22 {
+    opacity: 1;
+    fill: rgba(227,227,227,1);
+}
+.Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 352px;
+    height: 54.022px;
+    left: 36px;
+    top: 384px;
+}
+#Voor_email_in {
+    opacity: 0.614;
+    position: absolute;
+    left: 53px;
+    top: 392px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 160px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: rgba(15,15,15,1);
+}
+#Rectangle_23 {
+    opacity: 1;
+    fill: rgba(45,187,161,1);
+}
+.Rectangle_23 {
+    position: absolute;
+    overflow: visible;
+    width: 168.555px;
+    height: 52.078px;
+    left: 229.445px;
+    top: 384.422px;
+}
+#Subscribe__ {
+    opacity: 1;
+    position: absolute;
+    left: 246.805px;
+    top: 393.102px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 129px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(255,255,255,1);
+}
+#CAT {
+    opacity: 1;
+    position: absolute;
+    width: 394px;
+    height: 289px;
+    left: 10px;
+    top: 0px;
+    overflow: visible;
+}
+#CATEGORIES {
+    opacity: 1;
+    position: absolute;
+    left: 110px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 175px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+    text-decoration: true;
+}
+#Rectangle_12 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_12 {
+    position: absolute;
+    overflow: visible;
+    width: 394px;
+    height: 248px;
+    left: 0px;
+    top: 41px;
+}
+#Rectangle_14 {
+    opacity: 1;
+    fill: rgba(172,172,172,1);
+}
+.Rectangle_14 {
+    position: absolute;
+    overflow: visible;
+    width: 361px;
+    height: 42px;
+    left: 18px;
+    top: 59px;
+}
+#Rectangle_15 {
+    opacity: 1;
+    fill: rgba(172,172,172,1);
+}
+.Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 361px;
+    height: 42px;
+    left: 18px;
+    top: 116px;
+}
+#Rectangle_16 {
+    opacity: 1;
+    fill: rgba(172,172,172,1);
+}
+.Rectangle_16 {
+    position: absolute;
+    overflow: visible;
+    width: 361px;
+    height: 42px;
+    left: 18px;
+    top: 173px;
+}
+#Rectangle_17 {
+    opacity: 1;
+    fill: rgba(172,172,172,1);
+}
+.Rectangle_17 {
+    position: absolute;
+    overflow: visible;
+    width: 361px;
+    height: 42px;
+    left: 17px;
+    top: 230px;
+}
+#RATINGS {
+    opacity: 1;
+    position: absolute;
+    width: 365.734px;
+    height: 656.994px;
+    left: 103px;
+    top: 1207.956px;
+    overflow: visible;
+}
+#DAAN {
+    opacity: 1;
+    position: absolute;
+    width: 333.268px;
+    height: 218.674px;
+    left: 2.73px;
+    top: 71.493px;
+    overflow: visible;
+}
+#Daan_Smit {
+    opacity: 1;
+    position: absolute;
+    left: 52.34px;
+    top: 6.549px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 84px;
+    white-space: nowrap;
+    line-height: 30px;
+    margin-top: -6.5px;
+    text-align: left;
+    font-family: Arial, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(0,0,0,1);
+}
+#I_have_a_smallish_room_for_mul {
+    opacity: 1;
+    position: absolute;
+    left: 51.885px;
+    top: 80.187px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 272.075px;
+    height: 138.487px;
+    line-height: 24px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(15,15,15,1);
+}
+#Stars {
+    opacity: 1;
+    position: absolute;
+    width: 85.109px;
+    height: 15.06px;
+    left: 183.529px;
+    top: 8.011px;
+    overflow: visible;
+}
+#iconmonstr_star_3 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 34.518px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_8 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_8 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_9 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_9 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 17.258px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_10 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_10 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 51.896px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_11 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_11 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 69.275px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#SUPER_DUPER_TABLE___my_collega {
+    opacity: 1;
+    position: absolute;
+    left: 52.34px;
+    top: 32.917px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 281.928px;
+    height: 47.128px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Avatar {
+    opacity: 1;
+    position: absolute;
+    width: 35.955px;
+    height: 35.955px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_37 {
+    opacity: 1;
+    fill: url(#Path_37_A34_Path_13_pattern);
+    stroke: rgb(0, 0, 0);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_37 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 35.955px;
+    height: 35.955px;
+}
+#User_reviews {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 336.998px;
+    height: 50.705px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(0,0,0,1);
+}
+#EMMA {
+    opacity: 1;
+    position: absolute;
+    width: 343.005px;
+    height: 346.859px;
+    left: 3.959px;
+    top: 310.135px;
+    overflow: visible;
+}
+#Emma_Westerdijk {
+    opacity: 1;
+    position: absolute;
+    left: 50.064px;
+    top: 6.094px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 142px;
+    white-space: nowrap;
+    line-height: 30px;
+    margin-top: -6.5px;
+    text-align: left;
+    font-family: Arial, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(0,0,0,1);
+}
+#Avatar_A34_Group_10 {
+    opacity: 1;
+    position: absolute;
+    width: 35.955px;
+    height: 35.955px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_37_A34_Path_14 {
+    opacity: 1;
+    fill: url(#Path_37_A34_Path_15_pattern);
+    stroke: rgb(0, 0, 0);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_37_A34_Path_14 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 35.955px;
+    height: 35.955px;
+}
+#Update__added_a_picture_so_you {
+    opacity: 1;
+    position: absolute;
+    left: 52.035px;
+    top: 85.373px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 291.97px;
+    height: 261.487px;
+    line-height: 24px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(15,15,15,1);
+}
+#Stars_A34_Group_11 {
+    opacity: 1;
+    position: absolute;
+    width: 85.109px;
+    height: 15.06px;
+    left: 248.254px;
+    top: 10.556px;
+    overflow: visible;
+}
+#iconmonstr_star_3_A34_Path_16 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_16 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 34.518px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_17 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_17 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_18 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_18 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 17.258px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_19 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_19 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 51.896px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#iconmonstr_star_3_A34_Path_20 {
+    opacity: 1;
+    fill: rgba(38,38,38,1);
+}
+.iconmonstr_star_3_A34_Path_20 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 69.275px;
+    width: 15.834px;
+    height: 15.06px;
+}
+#I_just_love_this_desk_setup___ {
+    opacity: 1;
+    position: absolute;
+    left: 52.113px;
+    top: 36.103px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 281.928px;
+    height: 45.128px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Image_6 {
+    opacity: 1;
+    fill: url(#Image_6_A34_Rectangle_10_pattern);
+}
+.Image_6 {
+    position: absolute;
+    overflow: visible;
+    width: 45.514px;
+    height: 60.684px;
+    left: 135.941px;
+    top: 360.265px;
+}
+#Image_8 {
+    opacity: 1;
+    fill: url(#Image_8_A34_Rectangle_12_pattern);
+}
+.Image_8 {
+    position: absolute;
+    overflow: visible;
+    width: 45.514px;
+    height: 60.684px;
+    left: 192.086px;
+    top: 360.175px;
+}
+#BTN_REVIEW {
+    opacity: 1;
+    position: absolute;
+    width: 82.867px;
+    height: 100.962px;
+    left: 282.865px;
+    top: 0.27px;
+    overflow: visible;
+}
+#Ellipse_28 {
+    opacity: 1;
+    fill: rgba(45,187,161,1);
+    stroke: rgb(255, 255, 255);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_28 {
+    position: absolute;
+    overflow: visible;
+    width: 54.459px;
+    height: 54.458px;
+    left: 14.248px;
+    top: 2.521px;
+}
+#_ {
+    opacity: 1;
+    position: absolute;
+    left: 29.375px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 23px;
+    white-space: nowrap;
+    line-height: 66px;
+    margin-top: -13px;
+    text-align: center;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
+#Review_product {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 63.2px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 83.867px;
+    height: 55.762px;
+    line-height: 27px;
+    margin-top: -3px;
+    text-align: center;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(112,112,112,1);
+}
+#ID2_SEO_CONTENT {
+    opacity: 1;
+    position: absolute;
+    width: 341px;
+    height: 383px;
+    left: 120px;
+    top: 781.225px;
+    overflow: visible;
+}
+#The_best_office_table_setup_fo {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 342px;
+    height: 188px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 188px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 328px;
+    height: 195px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(112,112,112,1);
+}
+#SEO_Featureblock {
+    opacity: 1;
+    position: absolute;
+    width: 333.322px;
+    height: 157px;
+    left: 127.678px;
+    top: 537.225px;
+    overflow: visible;
+}
+#USP1 {
+    opacity: 1;
+    position: absolute;
+    width: 223.322px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#A_great_product__ {
+    opacity: 1;
+    position: absolute;
+    left: 29.322px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 195px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Path_269 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(45, 187, 161);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_269 {
+    transform: rotate(-9deg);
+    overflow: visible;
+    position: absolute;
+    top: 6.69px;
+    left: 0px;
+    width: 25.715px;
+    height: 23.436px;
+}
+#USP2 {
+    opacity: 1;
+    position: absolute;
+    width: 298.322px;
+    height: 34px;
+    left: 0px;
+    top: 31px;
+    overflow: visible;
+}
+#Award_winning_design__ {
+    opacity: 1;
+    position: absolute;
+    left: 29.322px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 270px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Path_270 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(45, 187, 161);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_270 {
+    transform: rotate(-9deg);
+    overflow: visible;
+    position: absolute;
+    top: 6.69px;
+    left: 0px;
+    width: 25.715px;
+    height: 23.436px;
+}
+#USP3 {
+    opacity: 1;
+    position: absolute;
+    width: 254.322px;
+    height: 34px;
+    left: 0px;
+    top: 60px;
+    overflow: visible;
+}
+#Colleagues_will_love {
+    opacity: 1;
+    position: absolute;
+    left: 29.322px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 226px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Path_271 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(45, 187, 161);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_271 {
+    transform: rotate(-9deg);
+    overflow: visible;
+    position: absolute;
+    top: 6.69px;
+    left: 0px;
+    width: 25.715px;
+    height: 23.436px;
+}
+#USP4 {
+    opacity: 1;
+    position: absolute;
+    width: 333.322px;
+    height: 68px;
+    left: 0px;
+    top: 89px;
+    overflow: visible;
+}
+#Designed_by_our_in_house__desi {
+    opacity: 1;
+    position: absolute;
+    left: 29.322px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 305px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Path_272 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(45, 187, 161);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_272 {
+    transform: rotate(-9deg);
+    overflow: visible;
+    position: absolute;
+    top: 8.69px;
+    left: 0px;
+    width: 25.715px;
+    height: 23.436px;
+}
+#PROD {
+    opacity: 1;
+    position: absolute;
+    width: 568px;
+    height: 513.225px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_38 {
+    opacity: 1;
+    fill: url(#Rectangle_38_A34_Rectangle_14_pattern);
+}
+.Rectangle_38 {
+    position: absolute;
+    overflow: visible;
+    width: 512px;
+    height: 223px;
+    left: 0px;
+    top: 61.225px;
+}
+#Rectangle_39 {
+    opacity: 1;
+    filter: blur(9.354px);
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_39 {
+    position: absolute;
+    overflow: visible;
+    width: 543px;
+    height: 253px;
+    left: 25px;
+    top: 260.225px;
+}
+#BUYBOX {
+    opacity: 1;
+    position: absolute;
+    width: 367.209px;
+    height: 240.852px;
+    left: 95px;
+    top: 239.771px;
+    overflow: visible;
+}
+#REPUTATION_STARS {
+    opacity: 1;
+    position: absolute;
+    width: 220px;
+    height: 69.561px;
+    left: 74px;
+    top: 67.893px;
+    overflow: visible;
+}
+#Rectangle_25 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_25 {
+    position: absolute;
+    overflow: visible;
+    width: 220px;
+    height: 47px;
+    left: 0px;
+    top: 0px;
+}
+#ID4_89_stars {
+    opacity: 1;
+    position: absolute;
+    left: 72px;
+    top: 46.561px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(112,112,112,1);
+}
+#Stars_A34_Group_22 {
+    opacity: 1;
+    position: absolute;
+    width: 176.618px;
+    height: 28.221px;
+    left: 22.107px;
+    top: 9px;
+    overflow: visible;
+}
+#star {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.star {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 29.617px;
+    height: 28.222px;
+}
+#star_A34_Path_26 {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.star_A34_Path_26 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 35px;
+    width: 29.617px;
+    height: 28.222px;
+}
+#star_A34_Path_27 {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.star_A34_Path_27 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 72.275px;
+    width: 29.617px;
+    height: 28.222px;
+}
+#star_A34_Path_28 {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.star_A34_Path_28 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 110px;
+    width: 29.617px;
+    height: 28.222px;
+}
+#star_A34_Path_29 {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.star_A34_Path_29 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 147px;
+    width: 29.617px;
+    height: 28.222px;
+}
+#PriceTag {
+    opacity: 1;
+    position: absolute;
+    width: 73.319px;
+    height: 51.291px;
+    left: 231.682px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_16_A34_Rectangle_17 {
+    opacity: 1;
+    fill: rgba(207,55,104,1);
+}
+.Rectangle_16_A34_Rectangle_17 {
+    position: absolute;
+    overflow: visible;
+    width: 73.318px;
+    height: 51.291px;
+    left: 0px;
+    top: 0px;
+}
+#KORTING {
+    opacity: 1;
+    position: absolute;
+    left: 8.318px;
+    top: 8.454px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 59px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(255,255,255,1);
+}
+#_20_ {
+    opacity: 1;
+    position: absolute;
+    left: 14.064px;
+    top: 23.325px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#PriceTag_A34_Group_24 {
+    opacity: 1;
+    position: absolute;
+    width: 168.343px;
+    height: 51.291px;
+    left: 65px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_16_A34_Rectangle_18 {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.Rectangle_16_A34_Rectangle_18 {
+    position: absolute;
+    overflow: visible;
+    width: 168.342px;
+    height: 51.291px;
+    left: 0px;
+    top: 0px;
+}
+#_1_250_00 {
+    opacity: 1;
+    position: absolute;
+    left: 7px;
+    top: 5.454px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 134px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#BUY_Elements {
+    opacity: 1;
+    position: absolute;
+    width: 367.209px;
+    height: 103.398px;
+    left: 0px;
+    top: 137.454px;
+    overflow: visible;
+}
+#Rectangle_29 {
+    opacity: 0.382;
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_29 {
+    position: absolute;
+    overflow: visible;
+    width: 367.209px;
+    height: 103.398px;
+    left: 0px;
+    top: 0px;
+}
+#Path_35 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_35 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 103.146px;
+    left: 19.326px;
+    width: 328.557px;
+    height: 0px;
+}
+#BTN_CTA_ADDTC {
+    opacity: 1;
+    position: absolute;
+    width: 212.595px;
+    height: 48.317px;
+    left: 135.287px;
+    top: 28.024px;
+    overflow: visible;
+}
+#Path_34 {
+    opacity: 1;
+    fill: rgba(65,196,171,0.678);
+}
+.Path_34 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 212.596px;
+    height: 48.317px;
+}
+#AddToCart_bottom {
+    opacity: 1;
+    position: absolute;
+    left: 62.131px;
+    top: 8.347px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 135px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(0,0,0,1);
+}
+
+div#AddToCart_bottom {
+    opacity: 1;
+    position: absolute;
+    left: 265px;
+    top: 15px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0 10px;
+    overflow: visible;
+    width: 134px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -1.5px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    border: #36c0a6;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 30px;
+    background: #2cbba1;
+}
+
+#Add_to_basket {
+    opacity: 1;
+    position: absolute;
+    left: 62.132px;
+    top: 8.347px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 135px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(0,0,0,1);
+}
+
+#Ellipse_11 {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.Ellipse_11 {
+    position: absolute;
+    overflow: visible;
+    width: 42.264px;
+    height: 39.843px;
+    left: 6.574px;
+    top: 4.696px;
+}
+#shopping_cart {
+    opacity: 1;
+    position: absolute;
+    width: 27.07px;
+    height: 25.313px;
+    left: 14.088px;
+    top: 11.896px;
+    overflow: visible;
+}
+#Layer_1_107_ {
+    opacity: 1;
+    position: absolute;
+    width: 27.07px;
+    height: 25.313px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_19 {
+    opacity: 1;
+    position: absolute;
+    width: 27.07px;
+    height: 25.313px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_12 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_12 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 27.07px;
+    height: 19.688px;
+}
+#Ellipse_3 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Ellipse_3 {
+    position: absolute;
+    overflow: visible;
+    width: 4.219px;
+    height: 4.219px;
+    left: 7.383px;
+    top: 21.094px;
+}
+#Ellipse_4_A34_Ellipse_6 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Ellipse_4_A34_Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 4.219px;
+    height: 4.219px;
+    left: 20.039px;
+    top: 21.094px;
+}
+#AdjustAmount {
+    opacity: 1;
+    position: absolute;
+    width: 64.745px;
+    height: 91.498px;
+    left: 36.721px;
+    top: 5.079px;
+    overflow: visible;
+}
+#AMOUNTBOX {
+    opacity: 1;
+    position: absolute;
+    width: 64.745px;
+    height: 30.331px;
+    left: 0px;
+    top: 31.367px;
+    overflow: visible;
+}
+#Rectangle_27 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_27 {
+    position: absolute;
+    overflow: visible;
+    width: 64.744px;
+    height: 30.331px;
+    left: 0px;
+    top: 0px;
+}
+#ID1 {
+    opacity: 1;
+    position: absolute;
+    left: 26.092px;
+    top: 0.641px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 13px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(0,0,0,1);
+}
+#PLUSMACHER {
+    opacity: 1;
+    position: absolute;
+    width: 64.745px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_28 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_28 {
+    position: absolute;
+    overflow: visible;
+    width: 64.744px;
+    height: 21.259px;
+    left: 0px;
+    top: 4.29px;
+}
+#__A34_Text_27 {
+    opacity: 1;
+    position: absolute;
+    left: 26.092px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 13px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(0,0,0,1);
+}
+#MINUSMACHER {
+    opacity: 0.47;
+    position: absolute;
+    width: 64.745px;
+    height: 27px;
+    left: 0px;
+    top: 64.498px;
+    overflow: visible;
+}
+#Rectangle_28_A34_Rectangle_22 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_28_A34_Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 64.744px;
+    height: 21.259px;
+    left: 0px;
+    top: 4.29px;
+}
+#__A34_Text_28 {
+    opacity: 1;
+    position: absolute;
+    left: 28.99px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 7px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#NAV_BTN_GOBACK {
+    opacity: 1;
+    position: absolute;
+    width: 90px;
+    height: 35.584px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_3 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 35.584px;
+    left: 0px;
+    top: 0px;
+}
+#__BACK {
+    opacity: 1;
+    position: absolute;
+    left: 12.602px;
+    top: 5.599px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 57px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(112,112,112,1);
+}
+#BG_A34_Group_35 {
+    opacity: 1;
+    position: absolute;
+    width: 412.836px;
+    height: 18px;
+    left: 73.021px;
+    top: 44.154px;
+    overflow: visible;
+}
+#Rectangle_7 {
+    opacity: 1;
+    filter: blur(30px);
+    fill: rgba(65,196,171,1);
+}
+.Rectangle_7 {
+    position: absolute;
+    overflow: visible;
+    width: 412.836px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+}
+#HEAD_LINE_BREADCRUMBS {
+    opacity: 1;
+    position: absolute;
+    width: 331px;
+    height: 98.626px;
+    left: 22px;
+    top: 100px;
+    overflow: visible;
+}
+#HEADLINE {
+    opacity: 1;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: -18840px;
+    top: -4492.374px;
+    overflow: visible;
+}
+#Breadcrumb {
+    opacity: 1;
+    position: absolute;
+    width: 176.601px;
+    height: 23px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#home {
+    opacity: 1;
+    position: absolute;
+    width: 18.675px;
+    height: 14.862px;
+    left: 0px;
+    top: 4.074px;
+    overflow: visible;
+}
+#Group_33 {
+    opacity: 1;
+    position: absolute;
+    width: 18.675px;
+    height: 14.862px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_52 {
+    opacity: 1;
+    fill: rgba(101,101,101,1);
+}
+.Path_52 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 3px;
+    left: 2.664px;
+    width: 13.346px;
+    height: 11.862px;
+}
+#Path_53 {
+    opacity: 1;
+    fill: rgba(101,101,101,1);
+}
+.Path_53 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 18.676px;
+    height: 8.747px;
+}
+#Path_54 {
+    opacity: 1;
+    fill: rgba(0,0,0,0);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_54 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 2.126px;
+    left: 23.5px;
+    width: 1px;
+    height: 18px;
+}
+#Path_55 {
+    opacity: 1;
+    fill: rgba(0,0,0,0);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_55 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 2.126px;
+    left: 89.5px;
+    width: 1px;
+    height: 18px;
+}
+#WORKLIFE {
+    opacity: 1;
+    position: absolute;
+    left: 94.602px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(112,112,112,1);
+}
+#OFFICE {
+    opacity: 1;
+    position: absolute;
+    left: 28.602px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 57px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(112,112,112,1);
+}
+#Office_combination__CEO___Foun {
+    opacity: 1;
+    position: absolute;
+    left: 1px;
+    top: 26.626px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 331px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: rgba(112,112,112,1);
+    text-decoration: true;
+}
+#browser_Wrapper {
+    opacity: 1;
+    position: absolute;
+    width: 414px;
+    height: 55.5px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#bar {
+    opacity: 1;
+    filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+    fill: rgba(246,246,246,1);
+}
+.bar {
+    position: absolute;
+    overflow: visible;
+    width: 432px;
+    height: 73.5px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_8 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_8 {
+    position: absolute;
+    overflow: visible;
+    width: 373.559px;
+    height: 39px;
+    left: 20px;
+    top: 8px;
+}
+#aboutphil_shop {
+    opacity: 1;
+    position: absolute;
+    left: 145.779px;
+    top: 14px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 149px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(112,112,112,1);
+}
+#padlock {
+    opacity: 1;
+    position: absolute;
+    width: 15.34px;
+    height: 18.75px;
+    left: 121.172px;
+    top: 18.591px;
+    overflow: visible;
+}
+#Path_33 {
+    opacity: 1;
+    fill: rgba(52,193,168,1);
+}
+.Path_33 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 15.34px;
+    height: 18.75px;
+}
+#HEAD_Flexible {
+    position: fixed;
+    z-index: 1;    
+}
+#TOPNAV_Elements {
+    opacity: 1;
+    position: absolute;
+    width: 413.992px;
+    height: 88.152px;
+    left: 2.008px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_31 {
+    opacity: 1;
+    filter: blur(30px);
+    fill: rgba(255,255,255,0.706);
+}
+.Path_31 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 413.992px;
+    height: 88.151px;
+}
+div#SUBNAV {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+}
+
+
+
+#Rectangle_35 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_35 {
+    position: absolute;
+    overflow: visible;
+    width: 418px;
+    height: 56px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_cyan {
+    opacity: 1;
+    fill: rgba(65,196,171,0.678);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_cyan {
+    position: absolute;
+    z-index: 0;
+    width: 209px;
+    height: 56px;
+    left: 209px;
+    top: 0px;
+}
+#Basket {
+    opacity: 1;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: 220px;
+    top: 10px;
+    overflow: visible;
+}
+#Ellipse_10 {
+    opacity: 1;
+    fill: rgba(54,192,166,1);
+}
+.Ellipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+}
+#shopping_cart_A34_Group_47 {
+    opacity: 1;
+    position: absolute;
+    width: 21.594px;
+    height: 20.191px;
+    left: 7.541px;
+    top: 9.49px;
+    overflow: visible;
+}
+#Layer_1_107__A34_Group_48 {
+    opacity: 1;
+    position: absolute;
+    width: 21.594px;
+    height: 20.191px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_19_A34_Group_49 {
+    opacity: 1;
+    position: absolute;
+    width: 21.594px;
+    height: 20.191px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_12_A34_Path_39 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_12_A34_Path_39 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 21.594px;
+    height: 15.705px;
+}
+#Ellipse_3_A34_Ellipse_8 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Ellipse_3_A34_Ellipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 3.365px;
+    height: 3.365px;
+    left: 5.889px;
+    top: 16.826px;
+}
+#Ellipse_4_A34_Ellipse_9 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Ellipse_4_A34_Ellipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 3.365px;
+    height: 3.365px;
+    left: 15.984px;
+    top: 16.826px;
+}
+#Shopping_Cart {
+    opacity: 1;
+    position: absolute;
+    left: 265px;
+    top: 15px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 134px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -1.5px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(0,0,0,1);
+}
+#Account {
+    opacity: 1;
+    position: absolute;
+    width: 170.445px;
+    height: 37.153px;
+    left: 11.555px;
+    top: 9.847px;
+    overflow: visible;
+}
+#round_account_button_with_user {
+    opacity: 1;
+    position: absolute;
+    width: 36.911px;
+    height: 37.153px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#account_circle {
+    opacity: 1;
+    position: absolute;
+    width: 36.911px;
+    height: 37.153px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_8 {
+    opacity: 1;
+    fill: rgba(0,0,0,1);
+}
+.Path_8 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 36.912px;
+    height: 37.153px;
+}
+#Your_Account {
+    opacity: 1;
+    position: absolute;
+    left: 44.445px;
+    top: 5.153px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -1.5px;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(0,0,0,1);
+}
+#Line_8 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_8 {
+    overflow: visible;
+    position: absolute;
+    top: 0.5px;
+    left: 209.5px;
+    width: 1px;
+    height: 55px;
+}
+#HMENUBTN {
+    opacity: 1;
+    position: absolute;
+    width: 51.128px;
+    height: 51.128px;
+    left: 24px;
+    top: 18px;
+    overflow: visible;
+}
+#Ellipse_10_A34_Ellipse_10 {
+    opacity: 1;
+    fill: rgba(54,192,166,1);
+}
+.Ellipse_10_A34_Ellipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 51.127px;
+    height: 51.128px;
+    left: 0px;
+    top: 0px;
+}
+#Line_5 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(255, 255, 255);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_5 {
+    overflow: visible;
+    position: absolute;
+    top: 17.5px;
+    left: 10.5px;
+    width: 29.875px;
+    height: 3px;
+}
+#Line_6 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(255, 255, 255);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_6 {
+    overflow: visible;
+    position: absolute;
+    top: 25.865px;
+    left: 10.5px;
+    width: 29.875px;
+    height: 3px;
+}
+#Line_7 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(255, 255, 255);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_7 {
+    overflow: visible;
+    position: absolute;
+    top: 34.23px;
+    left: 10.5px;
+    width: 29.875px;
+    height: 3px;
+}
+#Searchbar {
+    opacity: 1;
+    position: absolute;
+    width: 246px;
+    height: 46.99px;
+    left: 150px;
+    top: 20.153px;
+    overflow: visible;
+}
+#Rectangle_4 {
+    opacity: 1;
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    fill: rgba(245,245,245,1);
+}
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 264px;
+    height: 64.99px;
+    left: 0px;
+    top: 0px;
+}
+#How_can_we_help_ {
+    opacity: 0.614;
+    position: absolute;
+    left: 9.818px;
+    top: 11.221px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 143px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans, 'Open Sans:600',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(15,15,15,1);
+}
+#Ellipse_2 {
+    opacity: 1;
+    fill: rgba(149,149,149,1);
+}
+.Ellipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 46.99px;
+    height: 46.99px;
+    left: 199.01px;
+    top: 0px;
+}
+#search {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.search {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 10.52px;
+    left: 207.426px;
+    width: 29.732px;
+    height: 30.797px;
+}
+#LOGO {
+    opacity: 1;
+    position: absolute;
+    width: 47.91px;
+    height: 51.51px;
+    left: 87px;
+    top: 18px;
+    overflow: visible;
+}
+#Layer_1 {
+    opacity: 1;
+    position: absolute;
+    width: 47.91px;
+    height: 51.51px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#LOGO_A34_Group_57 {
+    opacity: 1;
+    position: absolute;
+    width: 47.91px;
+    height: 51.51px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_32 {
+    opacity: 1;
+    fill: rgba(196,65,90,1);
+}
+.Rectangle_32 {
+    position: absolute;
+    overflow: visible;
+    width: 47.91px;
+    height: 25.93px;
+    left: 0px;
+    top: 25.58px;
+}
+#Rectangle_33 {
+    opacity: 1;
+    fill: rgba(65,196,171,1);
+}
+.Rectangle_33 {
+    position: absolute;
+    overflow: visible;
+    width: 47.91px;
+    height: 25.58px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_34 {
+    opacity: 1;
+    fill: rgba(33,33,33,1);
+}
+.Rectangle_34 {
+    position: absolute;
+    overflow: visible;
+    width: 21.57px;
+    height: 51.51px;
+    left: 0px;
+    top: 0px;
+}
+#a_PHIL {
+    opacity: 1;
+    position: absolute;
+    width: 11.648px;
+    height: 48.555px;
+    left: 4.199px;
+    top: 1.77px;
+    overflow: visible;
+}
+#Group_403 {
+    opacity: 1;
+    position: absolute;
+    width: 8.997px;
+    height: 11.337px;
+    left: 2.65px;
+    top: 37.218px;
+    overflow: visible;
+}
+#Path_263 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_263 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 4.399px;
+    left: 0.059px;
+    width: 8.887px;
+    height: 6.938px;
+}
+#Path_264 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_264 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 8.998px;
+    height: 1.927px;
+}
+#Group_404 {
+    opacity: 1;
+    position: absolute;
+    width: 11.451px;
+    height: 34.61px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_265 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_265 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 26.742px;
+    left: 0px;
+    width: 11.451px;
+    height: 7.868px;
+}
+#Path_266 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_266 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 15.23px;
+    left: 0.012px;
+    width: 11.42px;
+    height: 9.36px;
+}
+#Path_267 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_267 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 9.93px;
+    left: 0.012px;
+    width: 11.42px;
+    height: 2.42px;
+}
+#Path_268 {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.Path_268 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0.012px;
+    width: 11.42px;
+    height: 7.05px;
+}
+
+
+/* custom css */ 
+
