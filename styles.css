@@ -735,7 +735,7 @@ body {
     width: 23px;
     white-space: nowrap;
     line-height: 66px;
-    margin-top: -13px;
+    margin-top: 0px;
     text-align: center;
     font-family: Open Sans, 'Open Sans:600',sans-serif;
     font-style: normal;
