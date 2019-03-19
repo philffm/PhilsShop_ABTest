@@ -1,7 +1,20 @@
-var testActive = Math.round(Math.random());
+var urlParams = new URLSearchParams(location.search);
+var testActive=urlParams.get('id');
+
+if (testActive==null) {
+    var testActive = Math.round(Math.random());
+}
 
 
-if (testActive<=1) {
+
+
+
+    
+
+
+
+
+if (testActive==1) {
 
     window.addEventListener("scroll", function (event) {
         var scroll = this.scrollY;
