@@ -1,7 +1,7 @@
 var testActive = Math.round(Math.random());
 
 
-if (testActive==1) {
+if (testActive<=1) {
 
     window.addEventListener("scroll", function (event) {
         var scroll = this.scrollY;
